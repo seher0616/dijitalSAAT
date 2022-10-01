@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Tourney:wght@300&display=swap");
+.container-fluid {
+  height: 100vh;
+  background-color: lightgrey;
+}
+
+#clock,
+#Date {
+  font-family: "Tourney", cursive;
+  font-size: 7rem;
+}
